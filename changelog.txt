@@ -1,0 +1,136 @@
+** Bricks Changelog **
+
+06 April 2019, Version 1.6.2
+	* New: Add support for the new `wp_body_open` hook in WordPress 5.2+
+	* Tweak: Admin 1.6.1
+
+20 November 2018, Version 1.6.1
+	* New: Inline Customizer styles are now minified for enhanced performance
+	* New: Use minified JS/CSS when debug mode is turned off (off by default)
+	* New: Combine mobile and standard stylesheets for improved performance
+	* New: Minify custom and vendor scripts
+	* Tweak: Use proper 'bricks' textdomain
+	* Fix: Metaboxes function error
+
+14 November 2018, Version 1.6.0
+	* New: Added CSSComb support for more efficient stylesheets
+	* New: Customizer-based license activation panel
+	* New: Added Gulp minification to all front-end stylesheets and scripts 🚀
+	* New: Added the theme version to the dashboard footer to help you stay up to date
+	* New: Support core custom logo feature
+	* Tweak: Prepare for WordPress 5.0 and Gutenberg
+	* Remove: Remove Google Analytics feature
+
+17 January 2017 - Version 1.5.2
+    Fixes & Updates:
+        * Fixed a small bug on the Stacked Portfolio Template
+        * Added CSSComb stylesheet organizer
+        * Cleaned up the base framework
+        * Fixed PHP 7 compatibility issues. Now 100% PHP 7.0 compatible
+        * Updated languages
+
+12 December 2016 - Version 1.5.1
+    Fixes & Updates:
+        * WordPress 4.7 touchups
+        * Updated pingback header
+        * Custom CSS -> WP Core CSS migration
+        * Updated languages
+
+20 October 2016 - Version 1.5.0
+    Fixes & Updates:
+        * WordPress 4.6.1 updates
+        * Fixed flyout sidebar overflow scroll
+        * Improved theme updater class
+        * Updater class now requires admin permissions
+        * Updated pingback header function
+        * Updated languages
+
+14 April 2016 - Version 1.4.4
+     * WordPress 4.5 updates
+     * Added support for title-tag
+        - header.php
+        - header-min.php
+        - functions.php
+     * Removed Framework SEO
+        - We suggest you use Yoast [https://wordpress.org/plugins/wordpress-seo]
+     * Removed Custom CSS Editor
+        - We suggest you use JetPack's Custom CSS module (or child themes) [https://wordpress.org/plugins/jetpack]
+     * Removed sticky meta option
+     * Performance improvements
+     * Updated languages
+
+29 January 2016 - Version 1.4.3
+     * EDD_Theme_Updater Update
+        - You will need to re-activate your theme license.
+     * Updated languages
+
+18 December 2015 - Version 1.4.2
+	* WP 4.4 comments fix
+		- functions.php
+	* Contact template now uses wp_mail mailing function
+		- template-contact.php
+	* Updated languages
+
+31 August 2015 - Version 1.4.1
+	* 100% GPL license
+		- style.css (top comments)
+		- Read more: https://themebeans.com/news/all-themes-now-100-gpl/
+
+26 August 2015 - Version 1.4.0
+	* Theme Customizer update
+		- Moved Branding section to WP default Site Identity section
+		- Removed favicon & apple touch uploader (WP 4.3 is default)
+		- inc/customizer folder
+	* 4.3 widget __construct update
+		- inc/widgets folder
+	* Framework updated to v2.6.2.1
+		- WP 4.3 Theme Customizer update
+		- Custom CSS Editor UI/X update
+		- framework folder
+	* Updated languages
+
+14 July 2015 - Version 1.3.1
+	* Added Customizer Export/Import support (NEW)
+		- More info: https://themebeans.com/?p=71018
+		- Download & Install: https://wordpress.org/plugins/customizer-export-import
+		- [theme]-package/customizer/[theme]-export.data (NEW)
+	* Improved optimization of image assets
+	* Added minified css/js files
+		- style.min.css (NEW)
+		- mobile.min.css (NEW)
+		- custom.min.js (NEW)
+		- custom-libraries.min.js (NEW)
+	* Framework updated to v2.6.1
+	* Updated languages
+
+02 July 2015 - Version 1.3.0
+	* Added PictureFill support on portfolio loop
+		- New retina/viewport image optimizations
+		- Enhanced mobile experience
+		- Regenerate your thumbnails: https://wordpress.org/plugins/regenerate-thumbnails
+	* Removed squared image option
+	* Updated languages
+
+24 June 2015 - Version 1.2.0
+	* Framework updated to v2.4
+	* Lightbox mobile height fix
+	* Updated languages
+
+30 April 2015 - Version 1.1.0
+	* XSS fix
+	* Theme Customizer UI improvements
+	* bean_custom_form_filters comments 4.2+ fix
+	* Framework updated to v2.2.5
+		- Updated Theme Customizer UI
+		- Updated Custom CSS Editor
+	* Updated languages
+
+9 April 2015 - Version 1.0.2
+	* Slider template meta_query fix
+	* Updated languages
+
+7 April 2015 - Version 1.0.1
+	* Lightbox caption update
+
+7 April 2015 - Version 1.0.0
+	* Initial release

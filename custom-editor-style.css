@@ -1,0 +1,16 @@
+/*===================================================================*/
+/*	STYLES FOR THE POST/PAGE EDITOR
+/*===================================================================*/
+
+@import url( 'style.css' );
+
+body.wp-autoresize { padding: 20px 25px!important; background: #FFF; }
+
+blockquote {
+	font-size: 18px; 
+	font-size: 1.8rem;
+	line-height: 32px; 
+	line-height: 3.2rem; 
+	margin: 6% 0;
+	padding: 7% 8%;
+}

@@ -1,0 +1,846 @@
+# Copyright (C) 2019 Bricks
+# This file is distributed under the same license as the Bricks package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bricks\n"
+"Report-Msgid-Bugs-To: https://themebeans.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Rich Tabor of ThemeBeans\n"
+"Language-Team: ThemeBeans\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:27
+msgid "Head "
+msgstr ""
+
+#: 404.php:27
+msgid "back"
+msgstr ""
+
+#: 404.php:27
+msgid " or go on "
+msgstr ""
+
+#: 404.php:27
+msgid "home"
+msgstr ""
+
+#: comments.php:18
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:18
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:18
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:22, comments.php:33
+msgid "Comments are now closed"
+msgstr ""
+
+#: comments.php:78
+msgid "Trackbacks."
+msgstr ""
+
+#: content-hidden-sidebar.php:3
+msgid "Close"
+msgstr ""
+
+#: content-portfolio-filter-mobile.php:16, content-portfolio-filter.php:17
+msgid "All"
+msgstr ""
+
+#: content-portfolio-filter-mobile.php:22, content-portfolio-filter.php:23
+msgid "Randomize"
+msgstr ""
+
+#: content-portfolio-meta.php:28, loop-post.php:41
+msgid "Date:"
+msgstr ""
+
+#: content-portfolio-meta.php:36
+msgid "Client:"
+msgstr ""
+
+#: content-portfolio-meta.php:43
+msgid "Role:"
+msgstr ""
+
+#: content-portfolio-meta.php:50
+msgid "URL:"
+msgstr ""
+
+#: content-portfolio-meta.php:63
+msgid "In:"
+msgstr ""
+
+#: content-portfolio-meta.php:71, loop-post.php:56
+msgid "Tags:"
+msgstr ""
+
+#: content-post-social.php:15, content-post-social.php:21
+msgid "Share"
+msgstr ""
+
+#: content-post-social.php:20
+msgid "Tweet"
+msgstr ""
+
+#: content-post-social.php:22
+msgid "Pin"
+msgstr ""
+
+#: content-template-portfolio-fullwidth.php:77, content-template-portfolio-fullwidth.php:86, content-template-portfolio-fullwidth.php:89, content-template-portfolio-slider.php:94, content-template-portfolio-slider.php:119, inc/post-formats/content.php:16, inc/widgets/widget-portfolio-menu.php:84, inc/widgets/widget-portfolio.php:85, loop-portfolio.php:24
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: functions.php:95
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:169, inc/meta/meta-page.php:38
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:170, functions.php:196
+msgid "Widget area for the primary sidebar."
+msgstr ""
+
+#: functions.php:182
+msgid "Hidden Sidebar"
+msgstr ""
+
+#: functions.php:183
+msgid "Widget area for the hidden sidebar."
+msgstr ""
+
+#: functions.php:195
+msgid "Contact Sidebar"
+msgstr ""
+
+#: functions.php:364
+msgid "To view this protected post enter the password below:"
+msgstr ""
+
+#: functions.php:460
+msgid "<cite class=\"fn\">%s</cite> "
+msgstr ""
+
+#: functions.php:463
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:463
+msgid "Edit"
+msgstr ""
+
+#: functions.php:475
+msgid "Awaiting Moderation"
+msgstr ""
+
+#: functions.php:551, template-contact.php:158
+msgid "Name"
+msgstr ""
+
+#: functions.php:557, template-contact.php:175
+msgid "Email"
+msgstr ""
+
+#: functions.php:563
+msgid "Website"
+msgstr ""
+
+#: functions.php:570
+msgid "Click here to comment"
+msgstr ""
+
+#: functions.php:572
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: functions.php:573
+msgid "Currently logged in as <a href=\"%1$s\">%2$s</a> / <a href=\"%3$s\" title=\"Log out of this account\">Logout</a>"
+msgstr ""
+
+#: functions.php:583
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: functions.php:584, inc/meta/metaboxes.php:195
+msgid "Cancel"
+msgstr ""
+
+#: functions.php:585
+msgid "Submit Comment"
+msgstr ""
+
+#: header.php:75
+msgid "Home "
+msgstr ""
+
+#: header.php:81
+msgid "Prev"
+msgstr ""
+
+#: header.php:87
+msgid "Next"
+msgstr ""
+
+#: inc/customizer/customizer.php:39
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:46, inc/widgets/widget-portfolio.php:22
+msgid "Portfolio"
+msgstr ""
+
+#: inc/customizer/customizer.php:53
+msgid "Contact"
+msgstr ""
+
+#: inc/customizer/customizer.php:60
+msgid "404 & Construction"
+msgstr ""
+
+#: inc/customizer/customizer.php:81
+msgid "Max Width"
+msgstr ""
+
+#: inc/customizer/customizer.php:103
+msgid "General"
+msgstr ""
+
+#: inc/customizer/customizer.php:120
+msgid "Toggle Hidden Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:121
+msgid "Toggle the auxillery sidebar panel, which you may then add widgets to."
+msgstr ""
+
+#: inc/customizer/customizer.php:131
+msgid "Twitter Username"
+msgstr ""
+
+#: inc/customizer/customizer.php:147
+msgid "Custom Copyright"
+msgstr ""
+
+#: inc/customizer/customizer.php:148
+msgid "Add custom text to display in the site footer."
+msgstr ""
+
+#: inc/customizer/customizer.php:162
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/customizer.php:173
+msgid "Enable Tags"
+msgstr ""
+
+#: inc/customizer/customizer.php:183
+msgid "Enable Blogroll Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:193
+msgid "Enable Post Sharing"
+msgstr ""
+
+#: inc/customizer/customizer.php:203
+msgid "Enable Filtering"
+msgstr ""
+
+#: inc/customizer/customizer.php:213
+msgid "Enable Single Portfolio Sharing"
+msgstr ""
+
+#: inc/customizer/customizer.php:223
+msgid "Enable Single Portfolio Pagination"
+msgstr ""
+
+#: inc/customizer/customizer.php:233
+msgid "Enable Fullwidth/Slider Template Titles"
+msgstr ""
+
+#: inc/customizer/customizer.php:254
+msgid "Grid Size"
+msgstr ""
+
+#: inc/customizer/customizer.php:270
+msgid "Portfolio Count"
+msgstr ""
+
+#: inc/customizer/customizer.php:280
+msgid "Select Portfolio Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:293
+msgid "Portfolio Template Loop"
+msgstr ""
+
+#: inc/customizer/customizer.php:296
+msgid "Most Recent"
+msgstr ""
+
+#: inc/customizer/customizer.php:297
+msgid "Most Popular"
+msgstr ""
+
+#: inc/customizer/customizer.php:298
+msgid "Sort Order"
+msgstr ""
+
+#: inc/customizer/customizer.php:308
+msgid "Portfolio Single Loop"
+msgstr ""
+
+#: inc/customizer/customizer.php:332
+msgid "Contact Form Email"
+msgstr ""
+
+#: inc/customizer/customizer.php:342
+msgid "Contact Button Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:352
+msgid "Construction Custom Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:363
+msgid "404 Custom Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:374
+msgid "404 Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:391
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:403
+msgid "Portfolio CSS3 Filter"
+msgstr ""
+
+#: inc/media.php:300
+msgid "Play"
+msgstr ""
+
+#: inc/media.php:301
+msgid "Pause"
+msgstr ""
+
+#: inc/meta/meta-page.php:17
+msgid "Page Meta Settings"
+msgstr ""
+
+#: inc/meta/meta-page.php:30
+msgid "Page Layout:"
+msgstr ""
+
+#: inc/meta/meta-page.php:31
+msgid "Select your page layout."
+msgstr ""
+
+#: inc/meta/meta-page.php:36
+msgid "Standard"
+msgstr ""
+
+#: inc/meta/meta-page.php:37
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:17
+msgid "Portfolio Format"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:18, inc/meta/meta-portfolio.php:25, inc/meta/meta-portfolio.php:32, inc/meta/meta-portfolio.php:39, inc/meta/meta-portfolio.php:51, inc/meta/meta-portfolio.php:216
+msgid ""
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:24
+msgid "Gallery"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:31
+msgid "Audio"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:38
+msgid "Video"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:50
+msgid "Portfolio Settings"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:57
+msgid "Portfolio Date:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:60
+msgid "Display the date."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:64
+msgid "Portfolio Client:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:65
+msgid "Display the client meta."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:71
+msgid "Portfolio Role:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:74
+msgid "Your role in this project."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:78
+msgid "Portfolio URL:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:79
+msgid "Insert a URL to link your post to."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:85
+msgid "Portfolio URL Name:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:86
+msgid "Insert a name for your URL (optional)."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:92
+msgid "Display Categories:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:95
+msgid "Display the portfolio categories."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:99
+msgid "Display Tags:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:102
+msgid "Display the portfolio tags."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:106
+msgid "Display Custom Meta:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:109
+msgid "Display any custom meta fields."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:118
+msgid "Gallery Settings"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:124
+msgid "Gallery Layout:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:125
+msgid "Choose which layout to display for this portfolio post."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:130
+msgid "Stacked"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:131
+msgid "Stacked Lightbox"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:132
+msgid "Slideshow"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:136
+msgid "Gallery Images:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:137
+msgid "Upload images here for your gallery post. Once uploaded, drag & drop to reorder."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:140, inc/meta/meta-post.php:45
+msgid "Browse & Upload"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:148
+msgid "Slideshow Settings"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:154, inc/meta/meta-post.php:59
+msgid "Slide Item Count:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:155, inc/meta/meta-post.php:60
+msgid "Select the amount of images per slide."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:160, inc/meta/meta-post.php:65
+msgid "1 Item"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:161, inc/meta/meta-post.php:66
+msgid "2 Items"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:162, inc/meta/meta-post.php:67
+msgid "3 Items"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:166, inc/meta/meta-post.php:71
+msgid "Slider Speed"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:167, inc/meta/meta-post.php:72
+msgid "Select your desired slider speed in ms."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:172, inc/meta/meta-post.php:77
+msgid "100ms"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:173, inc/meta/meta-post.php:78
+msgid "250ms"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:174, inc/meta/meta-post.php:79
+msgid "500ms"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:175, inc/meta/meta-post.php:80
+msgid "600ms"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:176, inc/meta/meta-post.php:81
+msgid "700ms"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:177, inc/meta/meta-post.php:82
+msgid "800ms"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:178, inc/meta/meta-post.php:83
+msgid "900ms"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:179, inc/meta/meta-post.php:84
+msgid "1000ms"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:183, inc/meta/meta-post.php:88
+msgid "Enable AutoPlay"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:186, inc/meta/meta-post.php:91
+msgid "Activate the slider autoplay property."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:190, inc/meta/meta-post.php:95
+msgid "Enable AutoHeight"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:193, inc/meta/meta-post.php:98
+msgid "Activate the slider autoheight property."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:197
+msgid "Randomize Slider:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:200, inc/meta/meta-post.php:105
+msgid "Randomize the gallery on page load."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:209
+msgid "Audio Settings"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:215, inc/meta/meta-post.php:23
+msgid "MP3 File URL:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:227
+msgid "Video Settings"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:233
+msgid "Embed 1:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:234, inc/meta/meta-portfolio.php:241, inc/meta/meta-portfolio.php:248, inc/meta/meta-portfolio.php:255
+msgid "Insert your embeded code here."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:240, inc/meta/meta-portfolio.php:247
+msgid "Embed 2:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:254
+msgid "Embed 3:"
+msgstr ""
+
+#: inc/meta/meta-post.php:17
+msgid "Audio Post Format Settings"
+msgstr ""
+
+#: inc/meta/meta-post.php:24
+msgid "Upload or link to an MP3 file."
+msgstr ""
+
+#: inc/meta/meta-post.php:35
+msgid "Post Media Uploader"
+msgstr ""
+
+#: inc/meta/meta-post.php:53
+msgid "Gallery Post Format Settings"
+msgstr ""
+
+#: inc/meta/meta-post.php:102
+msgid "Randomize Gallery:"
+msgstr ""
+
+#: inc/meta/meta-post.php:114
+msgid "Link Post Format Settings"
+msgstr ""
+
+#: inc/meta/meta-post.php:120
+msgid "Link URL:"
+msgstr ""
+
+#: inc/meta/meta-post.php:121
+msgid "ex: http://themebeans.com"
+msgstr ""
+
+#: inc/meta/meta-post.php:133
+msgid "Quote Post Format Settings"
+msgstr ""
+
+#: inc/meta/meta-post.php:139
+msgid "Quote Text:"
+msgstr ""
+
+#: inc/meta/meta-post.php:140
+msgid "Insert your quote into this textarea."
+msgstr ""
+
+#: inc/meta/meta-post.php:146
+msgid "Quote Source:"
+msgstr ""
+
+#: inc/meta/meta-post.php:147
+msgid "Who said the quote above?"
+msgstr ""
+
+#: inc/meta/meta-post.php:159
+msgid "Video Post Format Settings"
+msgstr ""
+
+#: inc/meta/meta-post.php:165
+msgid "Embeded Code:"
+msgstr ""
+
+#: inc/meta/meta-post.php:166
+msgid "Include your video embed code here."
+msgstr ""
+
+#: inc/meta/meta-post.php:172
+msgid "Embeded Video URL:"
+msgstr ""
+
+#: inc/meta/meta-post.php:173
+msgid "The direct URL to your embedded video."
+msgstr ""
+
+#: inc/meta/metaboxes.php:71, inc/meta/metaboxes.php:120
+msgid "Insert"
+msgstr ""
+
+#: inc/meta/metaboxes.php:126, inc/meta/metaboxes.php:242
+msgid "Saving..."
+msgstr ""
+
+#: inc/meta/metaboxes.php:182
+msgid "Create Gallery"
+msgstr ""
+
+#: inc/meta/metaboxes.php:189, inc/meta/metaboxes.php:196, inc/meta/metaboxes.php:305, inc/meta/metaboxes.php:307
+msgid "Edit Gallery"
+msgstr ""
+
+#: inc/meta/metaboxes.php:232
+msgid "Save Gallery"
+msgstr ""
+
+#: inc/meta/metaboxes.php:391
+msgid "Yes, please do"
+msgstr ""
+
+#: inc/plugins.php:23
+msgid "Portfolio Post Type"
+msgstr ""
+
+#: inc/plugins.php:28
+msgid "Simple Custom Post Order"
+msgstr ""
+
+#: inc/post-formats/content-image.php:23, inc/post-formats/content-video.php:26
+msgid "Please upload a featured image for this lightbox post"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:21
+msgid "Flickr Photos"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:22
+msgid "Add a Flickr feed widget."
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:113
+msgid "Title / Intro:"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:122
+msgid "Flickr ID:"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:127
+msgid "Type:"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:145
+msgid "Display:"
+msgstr ""
+
+#: inc/widgets/widget-portfolio-menu.php:22
+msgid "Portfolio Menu"
+msgstr ""
+
+#: inc/widgets/widget-portfolio-menu.php:23
+msgid "A custom loop of portfolio posts."
+msgstr ""
+
+#: inc/widgets/widget-portfolio-menu.php:132, inc/widgets/widget-portfolio-taxonomy.php:96
+msgid "Please download & install the <b>Bean Portfolio</b> WordPress plugin to properly display this widget."
+msgstr ""
+
+#: inc/widgets/widget-portfolio-menu.php:133, inc/widgets/widget-portfolio-taxonomy.php:97
+msgid "Bean Portfolio &rarr;"
+msgstr ""
+
+#: inc/widgets/widget-portfolio-menu.php:138, inc/widgets/widget-portfolio-taxonomy.php:102, inc/widgets/widget-portfolio.php:129
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget-portfolio-menu.php:147, inc/widgets/widget-portfolio.php:138
+msgid "Number of Posts: (-1 for Infinite)"
+msgstr ""
+
+#: inc/widgets/widget-portfolio-menu.php:152, inc/widgets/widget-portfolio.php:143
+msgid "Portfolio Loop:"
+msgstr ""
+
+#: inc/widgets/widget-portfolio-taxonomy.php:21
+msgid "Portfolio Taxonomy"
+msgstr ""
+
+#: inc/widgets/widget-portfolio-taxonomy.php:22
+msgid "A cloud of portfolio tags or categories."
+msgstr ""
+
+#: inc/widgets/widget-portfolio-taxonomy.php:107
+msgid "Taxonomy:"
+msgstr ""
+
+#: inc/widgets/widget-portfolio.php:23
+msgid "Standard portfolio post widget."
+msgstr ""
+
+#: loop-post.php:35
+msgid "By:"
+msgstr ""
+
+#: loop-post.php:42, loop-post.php:95
+msgid "Permalink to %s"
+msgstr ""
+
+#: loop-post.php:49
+msgid "Category:"
+msgstr ""
+
+#: loop-post.php:101
+msgid "[Edit]"
+msgstr ""
+
+#: loop-post.php:103
+msgid "<span>Continue Reading</span>"
+msgstr ""
+
+#: loop-post.php:110, page.php:59, template-archives.php:80, template-contact.php:114, template-site-map.php:64
+msgid "Pages:"
+msgstr ""
+
+#: search.php:58
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:60
+msgid "Sorry, but we didn&#39;t find anything for \"%s\". Please try searching again."
+msgstr ""
+
+#: searchform.php:11, searchform.php:11, searchform.php:11
+msgid "Search..."
+msgstr ""
+
+#: single-attachment.php:20
+msgid "Uploaded "
+msgstr ""
+
+#: template-archives.php:56
+msgid "Last 30 Posts"
+msgstr ""
+
+#: template-archives.php:67
+msgid "Archives by Month"
+msgstr ""
+
+#: template-archives.php:71
+msgid "Archives by Category "
+msgstr ""
+
+#: template-contact.php:137
+msgid "Your message was sent. Thanks."
+msgstr ""
+
+#: template-contact.php:147
+msgid "An error occured. Try again."
+msgstr ""
+
+#: template-contact.php:191
+msgid "Message"
+msgstr ""
+
+#: template-site-map.php:56
+msgid "Pages"
+msgstr ""
